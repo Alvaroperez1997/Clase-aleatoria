@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Clase()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Clase\r\n
+comment1.params=
+comment1.target=void\ emparejarAlumnos()
+comment1.text=\r\n\ Empareja\ a\ los\ alumnos\ aleatoriamente\r\n
+comment2.params=
+comment2.target=int\ numeroAlumnos()
+comment2.text=\r\n\ Tama\u00F1o\ de\ la\ lista\r\n
+numComments=3
